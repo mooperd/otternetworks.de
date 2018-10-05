@@ -1,4 +1,4 @@
-@media (max-width: 4000px) and (min-width: 3001px) {
+@media (min-width: 3001px) {
 
 	#start .section-container {
 	    top: 50%;
@@ -52,6 +52,10 @@
 	    width: 1400px;
 	    left: 50%;
 	    margin-left: -700px;
+	}
+
+	section#article {
+		width: 1400px;
 	}
 
 	#nav-main {
@@ -204,6 +208,10 @@
 	    margin-left: -700px;
 	}
 
+	section#article {
+		width: 1400px;
+	}
+
 	#nav-main {
 		width: 86%;
 		margin: 0 auto;
@@ -352,6 +360,10 @@
 	    width: 1400px;
 	    left: 50%;
 	    margin-left: -700px;
+	}
+
+	section#article {
+		width: 1400px;
 	}
 
 	#nav-main {
@@ -504,6 +516,10 @@
 	    margin-left: -430px;
 	}
 
+	section#article {
+		width: 760px;
+	}
+
 	#nav-main {
 		width: 80%;
 		margin: 0 auto;
@@ -636,6 +652,10 @@
 	    margin-left: -293px;
 	}
 
+	section#article {
+		width: 700px;
+	}
+
 	#nav-main {
 		width: 80%;
 		margin: 0 auto;
@@ -693,6 +713,10 @@
 	    width: 586px;
 	    left: 50%;
 	    margin-left: -293px;
+	}
+
+	section#article {
+		width: 600px;
 	}
 
 	#nav-main {
@@ -774,6 +798,10 @@
 	    width: 400px;
 	    left: 50%;
 	    margin-left: -200px;
+	}
+
+	section#article {
+		width: 90%;
 	}
 
 	#contact button {
@@ -864,6 +892,16 @@
 	    top: 50%;
 	    height: 610px;
 	    margin-top: -305px; 
+	}
+
+	section#article {
+		width: 92%;
+	}
+
+	section#article .section-container {
+		width: 100%;
+		left: 0;
+		margin-left: 0;
 	}
 
 	ul.navigation {
