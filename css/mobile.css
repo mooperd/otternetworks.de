@@ -34,7 +34,7 @@
 	    margin-left: -700px;
 	}
 
-	#team .section-container {
+	#testimonials .section-container {
 	    top: 50%;
 	    height: 500px;
 	    margin-top: -250px; 
@@ -188,7 +188,7 @@
 	    margin-left: -700px;
 	}
 
-	#team .section-container {
+	#testimonials .section-container {
 	    top: 50%;
 	    height: 500px;
 	    margin-top: -250px; 
@@ -342,7 +342,7 @@
 	    margin-left: -700px;
 	}
 
-	#team .section-container {
+	#testimonials .section-container {
 	    top: 50%;
 	    height: 500px;
 	    margin-top: -250px; 
@@ -496,7 +496,7 @@
 	    margin-left: -450px;
 	}
 
-	#team .section-container {
+	#testimonials .section-container {
 	    top: 50%;
 	    height: 500px;
 	    margin-top: -250px; 
@@ -632,7 +632,7 @@
 	    margin-left: -325px;
 	}
 
-	#team .section-container {
+	#testimonials .section-container {
 	    top: 50%;
 	    height: 500px;
 	    margin-top: -250px; 
@@ -695,7 +695,7 @@
 	    margin-left: -325px;
 	}
 
-	#team .section-container {
+	#testimonials .section-container {
 	    top: 50%;
 	    height: 500px;
 	    margin-top: -250px; 
@@ -780,7 +780,7 @@
 	    margin-left: -200px;
 	}
 
-	#team .section-container {
+	#testimonials .section-container {
 	    top: 50%;
 	    height: 500px;
 	    margin-top: -250px; 
@@ -860,7 +860,7 @@
 
 	section#start,
 	section#technologies,
-	section#team,
+	section#testimonials,
 	section#contact {
 		min-height: 730px;
 	}
@@ -874,6 +874,19 @@
 	    left: 50%;
 	    margin-left: -131px;
 		margin-bottom: 0;
+	}
+
+	#testimonials img {
+		width: 100px;
+		margin-bottom: 40px;
+	}
+
+	#testimonials .section-container {
+		margin-top: 80px;
+	}
+
+	#testimonials h3 {
+		margin-bottom: 40px;
 	}
 
 	#start .section-container {
@@ -1050,7 +1063,7 @@
 
 	section#start,
 	section#technologies,
-	section#team,
+	section#testimonials,
 	section#contact {
 		min-height: 720px;
 	}
