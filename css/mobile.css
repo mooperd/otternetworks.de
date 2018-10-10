@@ -39,9 +39,9 @@
 	    height: 500px;
 	    margin-top: -250px; 
 	    margin-bottom: 0;
-	    width: 598px;
+	    width: 900px;
 	    left: 50%;
-	    margin-left: -299px;
+	    margin-left: -450px;
 	}
 
 	#contact .section-container {
@@ -89,6 +89,11 @@
 	h3 {
 		font-size: 45px;
 		line-height: 85px;
+	}
+
+	section#article h3 {
+		font-size: 45px;
+		line-height: 65px;
 	}
 
 	p {
@@ -193,9 +198,9 @@
 	    height: 500px;
 	    margin-top: -250px; 
 	    margin-bottom: 0;
-	    width: 598px;
+	    width: 900px;
 	    left: 50%;
-	    margin-left: -299px;
+	    margin-left: -450px;
 	}
 
 	#contact .section-container {
@@ -243,6 +248,11 @@
 	h3 {
 		font-size: 45px;
 		line-height: 85px;
+	}
+
+	section#article h3 {
+		font-size: 45px;
+		line-height: 65px;
 	}
 
 	p {
@@ -347,9 +357,9 @@
 	    height: 500px;
 	    margin-top: -250px; 
 	    margin-bottom: 0;
-	    width: 598px;
+	    width: 900px;
 	    left: 50%;
-	    margin-left: -299px;
+	    margin-left: -450px;
 	}
 
 	#contact .section-container {
@@ -397,6 +407,11 @@
 	h3 {
 		font-size: 45px;
 		line-height: 85px;
+	}
+
+	section#article h3 {
+		font-size: 45px;
+		line-height: 65px;
 	}
 
 	p {
@@ -501,9 +516,9 @@
 	    height: 500px;
 	    margin-top: -250px; 
 	    margin-bottom: 0;
-	    width: 598px;
+	    width: 730px;
 	    left: 50%;
-	    margin-left: -299px;
+	    margin-left: -365px;
 	}
 
 	#contact .section-container {
@@ -517,7 +532,7 @@
 	}
 
 	section#article {
-		width: 760px;
+		width: 900px;
 	}
 
 	#nav-main {
@@ -550,6 +565,16 @@
 	p {
 		font-size: 26px;
 		line-height: 47px;
+	}
+
+	section#article h3 {
+		margin-bottom: 30px;
+		font-size: 33px;
+		line-height: 48px;
+	}
+
+	section#article h2 {
+		font-size: 55px;
 	}
 
 	#contact #formBlock {
